@@ -1,0 +1,6 @@
+userID: oracle
+Password: 123
+DBID: orcl
+Password: Pendragon1206
+CommonUser: c##arata
+Password: 123
